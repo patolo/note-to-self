@@ -4,22 +4,23 @@ Please click on the category below to explore more.
 
 ## Language:
 
-* [HTML](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/HTML)
-* [CSS](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/CSS)
-* [Javascript](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Javascript)
+* [HTML](https://github.com/patolo/note-to-self/tree/master/HTML)
+* [CSS](https://github.com/patolo/note-to-selftree/master/CSS)
+* [Javascript](https://github.com/patolo/note-to-self/tree/master/Javascript)
 
 ## General:
 
-* [Browser](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Browser)
-* [Responsive](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Responsive)
-* [Quick References](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Quick-References)
+* [Browser](https://github.com/patolo/note-to-self/tree/master/Browser)
+* [Responsive](https://github.com/patolo/note-to-self/tree/master/Responsive)
+* [Quick References](https://github.com/patolo/note-to-self/tree/master/Quick-References)
 
 ## Version Control:
 
-* [Git](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master/Git)
+* [Git](https://github.com/patolo/note-to-self/tree/master/Git)
 
 ## Mobile:
 
-* [Mobile Development](https://github.com/logeshpaul/FrontEnd-Development-Resources/tree/master//Mobile-Development)
+* [Mobile Development](https://github.com/patolo/note-to-self/tree/master/Mobile-Development)
 
-
+### Webstorm
+* [Angularjs templates](https://github.com/patolo/note-to-self/tree/master/Webstorm-Angularjs-templates)
